@@ -30,9 +30,9 @@ apabila telah terinstall konfigurasi (hubungkan) dengan nethunter yg di termux
 
 caranya buka termux lalu ketikkan nethunter kex biasanya disuruh buat password anda buat sesuka anda
 
-lalu apabila telah muncul 
+lalu apabila telah muncul "you can see the kex client to connect to any of these displays"
 
-langkah selanjutnya buka nethunter kex app kemudian ketikkan password anda lalu klik connect dan selamat !
+maka langkah selanjutnya buka nethunter kex app kemudian ketikkan password anda lalu klik connect dan selamat !
 
 anda telah menjalankan kali linux di hp anda versi gui
 
