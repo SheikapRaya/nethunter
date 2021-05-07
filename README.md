@@ -35,3 +35,5 @@ lalu apabila telah muncul
 langkah selanjutnya buka nethunter kex app kemudian ketikkan password anda lalu klik connect dan selamat !
 
 anda telah menjalankan kali linux di hp anda versi gui
+
+NB=password default untuk nethunter :kali
